@@ -67,14 +67,13 @@ Este repositorio está dedicado únicamente a la **documentación del proyecto**
 - **Zaida Konig**  
 - **Johanna Hernandez**  
 - **Anthony Flores**  
-- **Tomás Yañez**  
 
 ---
 
 ## 📅 Metodología de Trabajo  
 
 - **Framework:** Scrum  
-- **Roles definidos:** Product Owner, Scrum Master, Equipo de Desarrollo.  
+- **Roles definidos:** Product Owner, Scrum Master, Developer Team.  
 - **Artefactos:** Backlog del producto, Backlog de sprint, Incrementos.  
 - **Eventos:** Sprint Planning, Daily Stand-up, Sprint Review, Sprint Retrospective.  
 
